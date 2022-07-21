@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tech009
+- 👋 Hi, I go by username "tech009"
 - 👀 I’m interested in Data Structures and Algorithms , Machine Learning.
 - 🌱 I’m currently learning ML Algorithms and it's impact in our Daily Life.
 - 💞️ I’m also interested in collaborating on DSA and ML Projects
